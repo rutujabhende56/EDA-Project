@@ -28,6 +28,6 @@
 
 
 ## Author :
-- Rutuja Bhende
-- CodeAlpha Internship – Data Analytics
-- This project was developed as part of the CodeAlpha Internship Program.
+Rutuja Bhende  
+CodeAlpha Internship – Data Analytics  
+This project was developed as part of the CodeAlpha Internship Program.
